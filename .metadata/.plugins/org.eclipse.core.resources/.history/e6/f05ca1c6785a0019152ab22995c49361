@@ -1,0 +1,11 @@
+package com.hydu.service;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.stereotype.Service;
+
+@FeignClient(name = "app-hydu-member")
+public interface MemberService {
+	
+	public String selectAll();
+
+}

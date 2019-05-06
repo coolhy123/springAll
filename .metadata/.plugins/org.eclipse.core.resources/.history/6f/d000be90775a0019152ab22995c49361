@@ -1,0 +1,6 @@
+package com.hydu.service;
+
+public interface MemberService {
+	public String selectAll();
+
+}

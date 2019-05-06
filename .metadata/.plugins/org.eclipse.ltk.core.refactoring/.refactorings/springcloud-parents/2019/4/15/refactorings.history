@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;springcloud-parents/springcloud-common/src/main/java/com/hydu/comm/ResponseService.java&apos; to &apos;ResponseBase.java&apos;" description="Rename resource &apos;ResponseService.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="springcloud-common/src/main/java/com/hydu/comm/ResponseService.java" name="ResponseBase.java" stamp="1554796592084" updateReferences="true"/>
+</session>

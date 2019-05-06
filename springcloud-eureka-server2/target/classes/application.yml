@@ -1,0 +1,20 @@
+###����˿ں�
+server:
+  port: 9100
+  
+    #��Ⱥһ��Ҫ������ͬ�ķ�������
+spring:
+   application:
+      name:app-hydu-eureka2
+###eureka ������Ϣ����
+eureka:
+  instance:
+    ###ע�ᵽeurekaip��ַ
+    hostname: 127.0.0.1
+  client:
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:8100/eureka/
+###��Ϊ�Լ���Ϊע�����ģ�����Ҫ�Լ�ע���Լ�
+    register-with-eureka: true
+###��Ϊ�Լ���Ϊע�����ģ�����Ҫ��������
+    fetch-registry: true

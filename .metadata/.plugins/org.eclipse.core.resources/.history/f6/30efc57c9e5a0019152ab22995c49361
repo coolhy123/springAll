@@ -1,0 +1,36 @@
+package com.hydu.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.hydu.comm.BaseApiService;
+import com.hydu.comm.ResponseService;
+import com.hydu.entity.Student;
+import com.hydu.service.MemberService;
+
+@RestController
+public class MemberController extends BaseApiService{
+	@Autowired
+	private MemberService sMemberService;
+	
+
+	
+	@RequestMapping("/sayHello")
+	public ResponseService selectAll() {
+		System.out.println("hello");
+		
+		List<Student> slist=sMemberService.selectAll();
+		ResponseService result=new ResponseService();
+		
+		return getSuccess(slist);
+		
+		
+		
+		
+	}
+	
+
+}

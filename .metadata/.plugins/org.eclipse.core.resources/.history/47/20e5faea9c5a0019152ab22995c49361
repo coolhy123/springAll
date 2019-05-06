@@ -1,0 +1,15 @@
+package com.hydu.comm;
+
+public class BaseApiService {
+	
+	public ResponseService getSuccess(Object objec) {
+		return new ResponseService("200","成功",objec);
+	}
+	
+	public ResponseService getFail() {
+		return new ResponseService("201","失败",null);
+	}
+	public ResponseService getError(Exception e) {
+		return new ResponseService("500","失败",e.getMessage());
+	}
+}

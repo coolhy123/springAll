@@ -1,0 +1,20 @@
+###���������˿ں�
+server:
+  port: 8000
+###��������(����ע�ᵽeureka����)  
+spring:
+    application:
+        name: app-hydu-member
+        
+###����ע�ᵽeureka��ַ
+eureka:
+  client:
+    service-url:
+           #defaultZone: http://localhost:8100/eureka,http://localhost:9100/eureka
+           defaultZone: http://localhost:8100/eureka
+
+           
+###��Ϊ��Ӧ��Ϊע�����ģ�����ע���Լ�
+    register-with-eureka: true
+###�Ƿ���Ҫ��eureka�ϻ�ȡע����Ϣ
+    fetch-registry: true

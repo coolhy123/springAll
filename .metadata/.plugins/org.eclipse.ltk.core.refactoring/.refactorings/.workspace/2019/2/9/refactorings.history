@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;springcloud-eureka-menber&apos; to &apos;springcloud-eureka-member&apos;" description="Rename resource &apos;springcloud-eureka-menber&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/springcloud-eureka-menber" name="springcloud-eureka-member" stamp="1551080813343" updateReferences="true"/>
+</session>

@@ -1,0 +1,15 @@
+package com.hydu.service;
+
+import java.util.List;
+
+
+import com.hydu.entity.Student;
+
+
+@FeignClient(name = "app-hydu-member")
+public interface MemberService  {
+	
+	@RequestMapping("/sayHello")
+	public List<Student> selectAll();
+
+}

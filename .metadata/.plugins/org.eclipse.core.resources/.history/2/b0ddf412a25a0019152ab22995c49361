@@ -1,0 +1,10 @@
+package com.hydu.impl;
+
+import org.aspectj.lang.reflect.MemberSignature;
+
+import com.hydu.comm.BaseApiService;
+import com.hydu.service.MemberService;
+
+public class MemberImpl extends BaseApiService implements MemberService{
+
+}

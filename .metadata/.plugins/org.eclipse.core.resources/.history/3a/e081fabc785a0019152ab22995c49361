@@ -1,0 +1,10 @@
+package com.hydu.service;
+
+import org.springframework.stereotype.Service;
+
+@FeignClient(name = "app-itmayiedu-member")
+public interface MemberService {
+	
+	public String selectAll();
+
+}

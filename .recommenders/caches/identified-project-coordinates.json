@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+[[{"location":"C:\\Program Files\\Java\\jre1.8.0_191","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"J2SE-1.5"}},"jre:jre:1.5.0"]]
+=======
+[[{"location":"C:\\Program Files\\Java\\jre1.8.0_191","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"J2SE-1.5"}},"jre:jre:1.5.0"],[{"location":"C:\\Users\\Administrator\\.m2\\repository\\org\\springframework\\boot\\spring-boot-autoconfigure\\2.0.1.RELEASE\\spring-boot-autoconfigure-2.0.1.RELEASE.jar","type":"JAR","hints":{}},"ABSENT"],[{"location":"C:\\Users\\Administrator\\.m2\\repository\\org\\springframework\\boot\\spring-boot\\2.0.1.RELEASE\\spring-boot-2.0.1.RELEASE.jar","type":"JAR","hints":{}},"ABSENT"],[{"location":"D:\\springBootAndCloud\\springcloud-parents\\springcloud-common","type":"PROJECT","hints":{"PROJECT_NAME":"springcloud-common"}},"com.hydu:springcloud-common:0.0.1"],[{"location":"D:\\springBootAndCloud\\springcloud-parents\\springcloud-api-service-member-impl","type":"PROJECT","hints":{"PROJECT_NAME":"springcloud-api-service-member-impl"}},"com.hydu:springcloud-api-service-member-impl:0.0.1"]]
+>>>>>>> ..

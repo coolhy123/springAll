@@ -1,0 +1,19 @@
+package com.hydu.impl;
+
+import java.util.List;
+
+import org.aspectj.lang.reflect.MemberSignature;
+
+import com.hydu.comm.BaseApiService;
+import com.hydu.entity.Student;
+import com.hydu.service.MemberService;
+
+public class MemberImpl extends BaseApiService implements MemberService{
+
+	@Override
+	public List<Student> selectAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

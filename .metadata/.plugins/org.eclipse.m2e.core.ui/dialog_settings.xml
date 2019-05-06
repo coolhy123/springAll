@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.hydu"/>
+<<<<<<< HEAD
+			<item value="com.hy"/>
+=======
+>>>>>>> ..
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+<<<<<<< HEAD
+			<item value="springcloud-consul-member"/>
+			<item value="springcloud-consul"/>
+			<item value="springcloud-zookeeper-server"/>
+			<item value="springbootfenye"/>
+			<item value="SpringbootMybatisDatasource"/>
+			<item value="springboot_mybatis"/>
+			<item value="springboot"/>
+			<item value="springcloud-eureka-server2"/>
+			<item value="springcloud-eureka-order"/>
+			<item value="springcloud-eureka-menber"/>
+			<item value="springcloud-eureka-server"/>
+=======
+			<item value="springcloud-comm"/>
+			<item value="springcloud-parents"/>
+>>>>>>> ..
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+<<<<<<< HEAD
+			<item value="D:\springboot蚂蚁课堂\2018年新版本SpringBoot2.0完整版视频教程-余胜军老师-QQ644064779&amp;蚂蚁课堂（每特教育出品）\上课代码\第三天\上课代码\itmayiedu_day29_springboot_mybatis02"/>
+=======
+			<item value="C:\Users\Administrator\Desktop\学习项目\springcloud\springcloud2.0文档下载\文档\30-37\shangkeqiandairudaima\springcloud2.0-itmayiedu-parent"/>
+>>>>>>> ..
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+<<<<<<< HEAD
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\springboot\springcloud-eureka-server\src\main\java\com\hydu\EurekaApp.java"/>
+			<item value="D:\springboot\springcloud-eureka-member\src\main\java\com\hydu\api\controller\MemberApp.java"/>
+=======
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="springcloud-comm"/>
+			<item value="springcloud-api-service-member-impl"/>
+			<item value="springcloud-api-service-order-impl"/>
+			<item value="springcloud-common"/>
+			<item value="springcloud-api-member-impl"/>
+			<item value="springcloud-api-order-impl"/>
+			<item value="springcloud-api-impl"/>
+			<item value="springcloud-api-member-service"/>
+			<item value="springcloud-api-order-service"/>
+			<item value="springcloud-api-service"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+>>>>>>> ..
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+<<<<<<< HEAD
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+=======
+			<item value="org.springcloud.comm"/>
+		</list>
+		<list key="groupId">
+			<item value="com.hydu"/>
+		</list>
+		<list key="artifactId">
+			<item value="springcloud-comm"/>
+>>>>>>> ..
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

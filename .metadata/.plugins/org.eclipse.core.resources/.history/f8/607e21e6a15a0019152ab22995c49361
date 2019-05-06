@@ -1,0 +1,19 @@
+package com.hydu.service;
+
+import java.util.List;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+
+import com.hydu.entity.Student;
+
+
+@FeignClient(name = "app-hydu-member")
+public interface MemberService  {
+	
+	@RequestMapping("/sayHello")
+	public List<Student> selectAll();
+
+}
